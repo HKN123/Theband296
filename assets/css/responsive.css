@@ -1,0 +1,100 @@
+@media(min-width:1024px){
+   
+        
+    
+}
+@media  (max-width:1023px){
+    .place-buy-btn {
+        padding: 15px 16px;
+    }
+    .form-control {
+        padding: 15px;
+    }
+    .social-list  {
+        font-size: 50px;
+       
+        
+
+    }
+    #nav .subnav a{
+        padding: 5px 12px; 
+
+    }
+    .social-list a {
+        margin: 0 8px;
+
+    }
+    .modal-help a {
+        padding: 12px 0px;
+        display: inline-block;
+    }
+}
+@media (min-width :740px) and (max-width:1023px) {
+    .contact-infor {
+        line-height: 2;
+    }
+   
+    
+}
+@media  (max-width:739px) {
+    #header .search-btn{
+        display: none;
+    }
+    #header .mobile-menu-btn{
+        display: block;
+    }
+    #header {
+        overflow: hidden;
+    }
+    #nav{
+        display: block;
+    }
+    #nav > li {
+        display : block;
+
+
+    }
+    #nav > li:first-child{
+        display: inline-block;
+    }
+    #nav .subnav {
+        position: initial;
+        background-color: #333;
+
+
+    }
+    #nav .subnav a{
+        color: white;
+        padding: 5px 41px; 
+
+    }
+    #nav li a {
+        padding: 1px 24px;
+    }
+    #content .member-item {
+        margin-top: 30px;
+        width: 100%;
+    }
+    #content .member-img {
+        width: 60%;
+    }
+    .s-col-ful,.s-full-width {
+        width: 100%;
+    }
+    .contact-message {
+        margin-top: 32px;
+    }
+    .contact-infor{
+        line-height: 2;
+    }
+    
+
+   
+  
+    
+    
+
+
+   
+    
+}
